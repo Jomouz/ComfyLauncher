@@ -32,4 +32,4 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: ComfyLauncher-Windows
-          path: dist/ComfyLauncher.exe  # 构建好的 exe 文件路径
+          path: dist/  # 构建好的 exe 文件路径
